@@ -79,7 +79,7 @@ A web-based feedback collector + analyzer (HTML + Python).
 
 📧 Email: **vinaybijalwan@gmail.com**  
 👔 LinkedIn **https://www.linkedin.com/in/vinay-bijalwan-a76a8710b/** 
-🌍 Portfolio (I can create one for you if needed)  
+🌍 Portfolio : None  
 🖥 GitHub: **github.com/vinaybijalwan**
 
 ---
