@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am full-stack developer with React-JS,Python-Django, MongoDB.
-& also Data Analyst with R(Data.Table), Python, Advance Excel. 
-My Past work on also is in Lisp, Comman Lisp, Scheme, Racket Lisp. Emacs, Vi Editor.
-Linux experties. 
+Hi there 👋
+I am a full-stack developer specializing in React-JS, Python-Django, MongoDB, and Data Analytics (R, Python, Excel).
+I work on building modern web apps, automation scripts, dashboards, and backend APIs.
